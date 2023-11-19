@@ -11,4 +11,4 @@
 </div>
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats)] [![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igang20&layout=compact)](https://github.com/igang20/github-readme-stats) [![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
