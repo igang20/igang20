@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
-<hr/>
 
+<hr styles="width:100%; height:1px"/>
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igang20)](https://github.com/igang20/github-readme-stats) 
-                                                                                  [![codewars](https://www.codewars.com/users/igang20/badges/large)(https://www.codewars.com/users/igang20)
+[![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
+</div>
