@@ -9,5 +9,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
+<hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats)] [![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
