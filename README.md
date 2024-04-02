@@ -14,4 +14,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igang20)](https://github.com/igang20/github-readme-stats) 
 [![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
+[![wakatime](https://wakatime.com/badge/user/018be85e-4aef-47c4-a5bd-6ac192be0e86/project/018dec36-1713-4536-98a9-c7db04b03c6f.svg)](https://wakatime.com/badge/user/018be85e-4aef-47c4-a5bd-6ac192be0e86/project/018dec36-1713-4536-98a9-c7db04b03c6f)
 
