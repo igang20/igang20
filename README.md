@@ -13,8 +13,6 @@
 
 <hr styles="width:100%; height:1px"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igang20)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/igang20/badges/large)](https://www.codewars.com/users/igang20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igang20)](https://github.com/igang20/github-readme-stats) 
 
 <figure><embed src="https://wakatime.com/share/@018be85e-4aef-47c4-a5bd-6ac192be0e86/b60747e5-2f9b-418b-ae20-7bc7815e74b2.svg"></embed></figure>
