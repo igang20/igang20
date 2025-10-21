@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  [![wakatime](https://wakatime.com/badge/user/018be85e-4aef-47c4-a5bd-6ac192be0e86.svg)](https://wakatime.com/@018be85e-4aef-47c4-a5bd-6ac192be0e86)
 </div>
 
 <hr styles="width:100%; height:1px"/>
